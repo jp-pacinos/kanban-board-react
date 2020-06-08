@@ -1,5 +1,7 @@
 ## Kanban Board React
 
+![screenshot](../assets/kanban.png?raw=true)
+
 ### Available Scripts
 
 In the project directory, you can run:
